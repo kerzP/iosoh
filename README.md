@@ -4,9 +4,8 @@ Dibuat dengan simple, bot komen buatan saya,
 Semoga berguna.
 
 
+~ git clone https://github.com/kerzP/iosoh
 
-git clone https://github.com/kerzP/iosoh
+~ cd iosoh
 
-cd iosoh
-
-python soeleh.py
+~ python soeleh.py
