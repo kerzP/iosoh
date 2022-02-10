@@ -1,6 +1,6 @@
 # Bot komen by kerz
 
-Dibuat dengan simple, bot komen buatan saya,
+Dibuat dengan simple, bot komen login token,
 Semoga berguna.
 
 
