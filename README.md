@@ -4,8 +4,18 @@ Dibuat dengan simple, bot komen login token,
 Semoga berguna.
 
 
-~ git clone https://github.com/kerzP/iosoh
+       ~ Ketik di termux
 
-~ cd iosoh
+$ pkg update && pkg upgrade
 
-~ python soeleh.py
+$ pkg install python
+
+$ pkg install Json
+
+$ rm -rf iosoh
+
+$ git clone https://github.com/kerzP/iosoh
+
+$ cd iosoh
+
+$ python soeleh.py
