@@ -12,6 +12,8 @@ $ pkg install python
 
 $ pkg install Json
 
+$ pip install requests
+
 $ rm -rf iosoh
 
 $ git clone https://github.com/kerzP/iosoh
